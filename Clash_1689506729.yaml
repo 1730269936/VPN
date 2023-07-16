@@ -1,9 +1,3 @@
-#---------------------------------------------------#
-## 更新：2023-07-16 07:25:29
-## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://api.lipulai.com/api_version2/x3qifssqwlm8xoaw?clash=1
-#---------------------------------------------------#
-
 # HTTP 代理端口
 port: 7890 
 
