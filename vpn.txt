@@ -1,1 +1,227 @@
-dmxlc3M6Ly8yNzE0YTRlZi1hNmI5LTQzMjktOGM5Mi1jMzEwNDRhZmUzY2NAMTg4LjY4LjI0OC44OjQ0MjE/ZW5jcnlwdGlvbj1ub25lJmZsb3c9eHRscy1ycHJ4LXZpc2lvbiZzZWN1cml0eT1yZWFsaXR5JnNuaT13d3cuc3BlZWR0ZXN0Lm5ldCZmcD1jaHJvbWUmcGJrPXRobXYxT0txUngyS0Zja2VjM0lMV3BlQ3BrTWNQbU54cnpKRmhGZkJ2V3cmdHlwZT10Y3AmaGVhZGVyVHlwZT1ub25lI1BMLXMxNS1yZWFsaXR5CnZtZXNzOi8vZXlBaWRpSTZJQ0l5SWl3Z0luQnpJam9nSWxCTUxYTXhOUzEyYldWemN5MTNjeUlzSUNKaFpHUWlPaUFpTVRnNExqWTRMakkwT0M0NElpd2dJbkJ2Y25RaU9pQWlORFF5TVRFaUxDQWlhV1FpT2lBaU1qY3hOR0UwWldZdFlUWmlPUzAwTXpJNUxUaGpPVEl0WXpNeE1EUTBZV1psTTJOaklpd2dJbUZwWkNJNklDSXdJaXdnSW5OamVTSTZJQ0poZFhSdklpd2dJbTVsZENJNklDSjNjeUlzSUNKMGVYQmxJam9nSW01dmJtVWlMQ0FpYUc5emRDSTZJQ0lpTENBaWNHRjBhQ0k2SUNJdk1qY3hOR0UwWldZdFlUWmlPUzAwTXpJNUxUaGpPVEl0WXpNeE1EUTBZV1psTTJOakxYWnRQMlZrUFRJd05EZ2lMQ0FpZEd4eklqb2dJaUlzSUNKemJta2lPaUFpSWl3Z0ltRnNjRzRpT2lBaUlpd2dJbVp3SWpvZ0lpSjlDZz09CnZtZXNzOi8vZXlBaWRpSTZJQ0l5SWl3Z0luQnpJam9nSWxCTUxYTXhOUzEyYldWemN5MTNjeTEwYkhNdFlYSm5ieUlzSUNKaFpHUWlPaUFpYVdOdmIyc3VhR3NpTENBaWNHOXlkQ0k2SUNJNE5EUXpJaXdnSW1sa0lqb2dJakkzTVRSaE5HVm1MV0UyWWprdE5ETXlPUzA0WXpreUxXTXpNVEEwTkdGbVpUTmpZeUlzSUNKaGFXUWlPaUFpTUNJc0lDSnpZM2tpT2lBaVlYVjBieUlzSUNKdVpYUWlPaUFpZDNNaUxDQWlkSGx3WlNJNklDSnViMjVsSWl3Z0ltaHZjM1FpT2lBaVozSnZkMmx1WnkxbGJtZHNhWE5vTFhSeVlYWnBjeTF5YjJKMWMzUXVkSEo1WTJ4dmRXUm1iR0Z5WlM1amIyMGlMQ0FpY0dGMGFDSTZJQ0l2TWpjeE5HRTBaV1l0WVRaaU9TMDBNekk1TFRoak9USXRZek14TURRMFlXWmxNMk5qTFhadFAyVmtQVEl3TkRnaUxDQWlkR3h6SWpvZ0luUnNjeUlzSUNKemJta2lPaUFpWjNKdmQybHVaeTFsYm1kc2FYTm9MWFJ5WVhacGN5MXliMkoxYzNRdWRISjVZMnh2ZFdSbWJHRnlaUzVqYjIwaUxDQWlZV3h3YmlJNklDSWlMQ0FpWm5BaU9pQWlJbjBLCnZtZXNzOi8vZXlBaWRpSTZJQ0l5SWl3Z0luQnpJam9nSWxCTUxYTXhOUzEyYldWemN5MTNjeTFoY21kdklpd2dJbUZrWkNJNklDSnBZMjl2YXk1b2F5SXNJQ0p3YjNKMElqb2dJamc0T0RBaUxDQWlhV1FpT2lBaU1qY3hOR0UwWldZdFlUWmlPUzAwTXpJNUxUaGpPVEl0WXpNeE1EUTBZV1psTTJOaklpd2dJbUZwWkNJNklDSXdJaXdnSW5OamVTSTZJQ0poZFhSdklpd2dJbTVsZENJNklDSjNjeUlzSUNKMGVYQmxJam9nSW01dmJtVWlMQ0FpYUc5emRDSTZJQ0puY205M2FXNW5MV1Z1WjJ4cGMyZ3RkSEpoZG1sekxYSnZZblZ6ZEM1MGNubGpiRzkxWkdac1lYSmxMbU52YlNJc0lDSndZWFJvSWpvZ0lpOHlOekUwWVRSbFppMWhObUk1TFRRek1qa3RPR001TWkxak16RXdORFJoWm1VelkyTXRkbTAvWldROU1qQTBPQ0lzSUNKMGJITWlPaUFpSW4wSwpoeXN0ZXJpYTI6Ly8yNzE0YTRlZi1hNmI5LTQzMjktOGM5Mi1jMzEwNDRhZmUzY2NAMTg4LjY4LjI0OC44OjQ0MjExP3NuaT13d3cuYmluZy5jb20mYWxwbj1oMyZpbnNlY3VyZT0xI1BMLXMxNS1oeTIK
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "api",
+      "port": 10812,
+      "listen": "127.0.0.1",
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "127.0.0.1"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "188.68.248.8",
+            "port": 44211,
+            "users": [
+              {
+                "id": "2714a4ef-a6b9-4329-8c92-c31044afe3cc",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": "/2714a4ef-a6b9-4329-8c92-c31044afe3cc-vm?ed=2048",
+          "headers": {}
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "metrics": {
+    "tag": "api"
+  },
+  "policy": {
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+  "dns": {
+    "hosts": {
+      "dns.google": "8.8.8.8",
+      "proxy.example.com": "127.0.0.1"
+    },
+    "servers": [
+      {
+        "address": "1.1.1.1",
+        "domains": [
+          "geosite:geolocation-!cn"
+        ],
+        "expectIPs": [
+          "geoip:!cn"
+        ]
+      },
+      {
+        "address": "223.5.5.5",
+        "domains": [
+          "geosite:cn"
+        ],
+        "expectIPs": [
+          "geoip:cn"
+        ]
+      },
+      "8.8.8.8",
+      "https://dns.google/dns-query"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api"
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:googleapis.cn",
+          "domain:gstatic.com"
+        ]
+      },
+      {
+        "type": "field",
+        "port": "443",
+        "network": "udp",
+        "outboundTag": "block"
+      },
+      {
+        "type": "field",
+        "outboundTag": "block",
+        "domain": [
+          "geosite:category-ads-all"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:private"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "223.5.5.5",
+          "223.6.6.6",
+          "2400:3200::1",
+          "2400:3200:baba::1",
+          "119.29.29.29",
+          "1.12.12.12",
+          "120.53.53.53",
+          "2402:4e00::",
+          "2402:4e00:1::",
+          "180.76.76.76",
+          "2400:da00::6666",
+          "114.114.114.114",
+          "114.114.115.115",
+          "114.114.114.119",
+          "114.114.115.119",
+          "114.114.114.110",
+          "114.114.115.110",
+          "180.184.1.1",
+          "180.184.2.2",
+          "101.226.4.6",
+          "218.30.118.6",
+          "123.125.81.6",
+          "140.207.198.6",
+          "1.2.4.8",
+          "210.2.4.8",
+          "52.80.66.66",
+          "117.50.22.22",
+          "2400:7fc0:849e:200::4",
+          "2404:c2c0:85d8:901::4",
+          "117.50.10.10",
+          "52.80.52.52",
+          "2400:7fc0:849e:200::8",
+          "2404:c2c0:85d8:901::8",
+          "117.50.60.30",
+          "52.80.60.30"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:alidns.com",
+          "domain:doh.pub",
+          "domain:dot.pub",
+          "domain:360.cn",
+          "domain:onedns.net"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:cn"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:cn"
+        ]
+      }
+    ]
+  }
+}
